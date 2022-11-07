@@ -1,6 +1,6 @@
 # Welcome to  Scrape tool
 ## What is this tool used for?
-This tool is used to scrape a wbesite and returns an object that contains the name and url of the queried term
+This tool is used to scrape and query the `https://golden.com/query/list-of-cryptocurrency-exchange-companies-R9Y4` website and returns an object that contains the name and url of the queried term
 ## How to use this tool?
 - Clone this repository to create a local instance
 - Create a .env file and input the value of the PORT like so `PORT = 5000`
