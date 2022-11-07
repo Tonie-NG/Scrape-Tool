@@ -11,4 +11,4 @@ This tool is used to scrape and query the `https://golden.com/query/list-of-cryp
 - Wait for a response.
 
 ## Requirements
-- To use this tool, you need to have recent version of node and git installed on your device
+- To use this tool, you need to have recent version of node installed on your device
